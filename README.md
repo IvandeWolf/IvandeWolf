@@ -19,7 +19,7 @@ I am a software engineer from The Netherlands.
 - 🎓 Currently enrolled Master Computer Security with Bachelor Computer Science
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for web applications
 - 🌱 Exploring technology to improve education
-- ⚡ In my free time, I solve love to develop new interfaces and practice my skills
+- ⚡ In my free time, I love to develop new interfaces and practice my skills
 - 🌍 Love to travel the world
 
 ---
@@ -47,5 +47,3 @@ I am a software engineer from The Netherlands.
 ### :fire: My Stats :
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ivandewolf&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandewolf&layout=compact&theme=dark)
