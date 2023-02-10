@@ -41,9 +41,3 @@ I am a software engineer from The Netherlands.
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="Digitalocean" alt="Digitalocean" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="linux" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ivandewolf&theme=dark)
