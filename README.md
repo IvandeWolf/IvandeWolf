@@ -16,9 +16,9 @@
 ### :man_technologist: About Me :
 I am a software engineer from The Netherlands.
 
-- 🎓 Currently enrolled Master Computer Security with Bachelor Computer Science
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for web applications
-- 🌱 Exploring technology to improve education
+- 🎓 Bachelor Computer Science with a minor in education
+- 🔭 I’m working as a Software Engineer @AFAS
+- 🌱 Exploring new technologies to improve our everyday life
 - ⚡ In my free time, I love to develop new interfaces and practice my skills
 - 🌍 Love to travel the world
 
@@ -29,7 +29,8 @@ I am a software engineer from The Netherlands.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"  title="" alt="" width="40" height="40"/>&nbsp;
