@@ -17,7 +17,7 @@
 I am a software engineer from The Netherlands.
 
 - 🎓 Bachelor Computer Science with a minor in education
-- 🔭 I’m working as a Software Engineer @AFAS
+- 🔭 I’m working as a Software Developer @AFAS
 - 🌱 Exploring new technologies to improve our everyday life
 - ⚡ In my free time, I love to develop new interfaces and practice my skills
 - 🌍 Love to travel the world
